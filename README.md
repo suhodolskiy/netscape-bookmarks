@@ -3,6 +3,8 @@
 Golang library to work with bookmark export files in [Netscape bookmark
 format](https://msdn.microsoft.com/en-us/library/aa753582.aspx).
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/suhodolskiy/netscape-bookmarks.svg)](https://pkg.go.dev/github.com/suhodolskiy/netscape-bookmarks)
+
 ## Install
 
 `go get github.com/suhodolskiy/netscape-bookmarks`
