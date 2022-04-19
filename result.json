@@ -1,0 +1,59 @@
+[
+ {
+  "name": "Bookmarks Bar",
+  "add_date": "1611420722",
+  "last_modified": "1650397116",
+  "children": [
+   {
+    "name": "Google",
+    "add_date": "1650397103",
+    "icon": "",
+    "href": "https://www.google.com/",
+    "attributes": []
+   },
+   {
+    "name": "Github",
+    "add_date": "1650397124",
+    "last_modified": "1650397155",
+    "children": [
+     {
+      "name": "The React documentation website",
+      "add_date": "1650397152",
+      "icon": "",
+      "href": "https://github.com/reactjs/reactjs.org",
+      "attributes": []
+     },
+     {
+      "name": "Golang",
+      "add_date": "1650397162",
+      "last_modified": "1650397178",
+      "children": [
+       {
+        "name": "The Go programming language",
+        "add_date": "1650397133",
+        "icon": "",
+        "href": "https://github.com/golang/go",
+        "attributes": []
+       }
+      ],
+      "attributes": []
+     }
+    ],
+    "attributes": []
+   }
+  ],
+  "attributes": []
+ },
+ {
+  "name": "Golang Net html",
+  "add_date": "1650055527",
+  "icon": "",
+  "href": "https://zetcode.com/golang/net-html/",
+  "attributes": [
+   {
+    "key": "custom_attr",
+    "value": "TRUE"
+   }
+  ]
+ }
+]
